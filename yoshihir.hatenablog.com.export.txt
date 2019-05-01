@@ -1,0 +1,491 @@
+AUTHOR: yoshiyoshi7
+TITLE: 技術書典6に行ってきました
+BASENAME: 2019/04/19/093911
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 04/19/2019 09:39:11
+-----
+BODY:
+<p>2019/04/14 (日) に池袋<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B5%A5%F3%A5%B7%A5%E3%A5%A4%A5%F3%A5%B7%A5%C6%A5%A3">サンシャインシティ</a>で行われた技術書典6に行ってきました。
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftechbookfest.org%2Fevent%2Ftbf06" title="技術書典6" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://techbookfest.org/event/tbf06">techbookfest.org</a></cite></p>
+
+<p>前回は12:45に入場規制が解除されたので、13:00くらいに行こうかな?と思ったのですが、今回から11:00〜13:00までは入場料1000円がかかるようになり、並ばずに入れるのかわからない状態に...<br/>
+そこで今回は13:25ぐらいに着くようにしたのですが、10分ほど並んだら入場できました。
+さすがに物理本がもうないブースもありましたが、ある程度は買うことができましたので、次回参加するなら、このあたりの時間をおすすめします。
+以下、戦利品です</p>
+
+<p><figure class="figure-image figure-image-fotolife" title="技術書典6"><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshiyoshi7/20190419/20190419093537.jpg" alt="f:id:yoshiyoshi7:20190419093537j:plain" title="f:id:yoshiyoshi7:20190419093537j:plain" class="hatena-fotolife" itemprop="image"></span><figcaption>技術書典6</figcaption></figure></p>
+
+<pre class="code" data-lang="" data-unlink>Go + Docker + CircleCI + GKE + Spinnaker でアプリケーションのデプロイフロー(https://techbookfest.org/event/tbf06/circle/35970001)
+
+パケットキャプチャ解析基盤構築(https://techbookfest.org/event/tbf06/circle/52340002)
+
+雰囲気でOAuth2.0を使っているエンジニアがOAuth2.0を整理して理解できる本(https://techbookfest.org/event/tbf06/circle/40430007)
+
+受託開発会社のための初めての自社プロダクト開発(https://techbookfest.org/event/tbf06/circle/38390001)
+
+継続的にアウトプットする技術――エンジニアのための「続けられる」科学(https://techbookfest.org/event/tbf06/circle/71480001)
+
+Pragmatic Terraform on AWS(https://techbookfest.org/event/tbf06/circle/71480001)
+
+稼げるエンジニアになるためのインターネット広告入門(https://techbookfest.org/event/tbf06/circle/65490006)
+これからの「広告」の話をしよう(https://techbookfest.org/event/tbf06/circle/65490006)
+
+コードで理解するWebフレームワークの脆弱性 Playframework編(https://techbookfest.org/event/tbf06/circle/36030002)
+
+【青】におうコードの問題集 〜バリエーションに立ち向かう編〜(https://techbookfest.org/event/tbf06/circle/40050004)
+【緑】におうコードの問題集 〜セキュリティホールに立ち向かう編〜(https://techbookfest.org/event/tbf06/circle/40050004)
+【赤】におうコードの問題集 〜ソフトウェア設計に立ち向かう編〜(https://techbookfest.org/event/tbf06/circle/40050004)
+
+『りあクト！ TypeScriptで始めるつらくないReact開発 第2版』(https://techbookfest.org/event/tbf06/circle/58150002)
+『りあクト！ TypeScriptで極める現場のReact開発』(https://techbookfest.org/event/tbf06/circle/58150002)</pre>
+
+
+<p>読み終わったらそれぞれの感想を書きたいと思います。</p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: 最近読んで良かった技術書
+BASENAME: 2019/04/14/000550
+STATUS: Draft
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 04/13/2019 23:22:41
+IMAGE: https://images-fe.ssl-images-amazon.com/images/I/51p6dqvB3lL._SL160_.jpg
+-----
+BODY:
+<p>本当は年末年始とかに書くとよいのですが、最近更新していなかったので今回一通り上げたいと思います。</p>
+
+<h3>Docker/<a class="keyword" href="http://d.hatena.ne.jp/keyword/Kubernetes">Kubernetes</a> 実践コンテナ開発入門</h3>
+
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4297100339/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/51d69eJQMyL._SL160_.jpg" class="hatena-asin-detail-image" alt="Docker/Kubernetes 実践コンテナ開発入門" title="Docker/Kubernetes 実践コンテナ開発入門"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4297100339/hatena-blog-22/">Docker/Kubernetes 実践コンテナ開発入門</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> 山田<a class="keyword" href="http://d.hatena.ne.jp/keyword/%CC%C0%B7%FB">明憲</a></li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%B5%BB%BD%D1%C9%BE%CF%C0%BC%D2">技術評論社</a></li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/08/25</li><li><span class="hatena-asin-detail-label">メディア:</span> 単行本（ソフトカバー）</li><li><a href="http://d.hatena.ne.jp/asin/4297100339/hatena-blog-22" target="_blank">この商品を含むブログ (1件) を見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+<p>この本は大学で情報専攻でなかった私にとっては、教科書的な存在でした。<br/>
+コンピュータの歴史から、現在のシステムがどう構成されて動いているかが解説されていて、とても勉強になりました。<br/>
+大学で情報専攻ではなかった人は必ず読んだほうが良いと思います。インフラ周りの知識が一通り付きますので。</p>
+
+<h3>新しい<a class="keyword" href="http://d.hatena.ne.jp/keyword/Linux">Linux</a>の教科書</h3>
+
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4797380942/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/51dqjMRTh3L._SL160_.jpg" class="hatena-asin-detail-image" alt="新しいLinuxの教科書" title="新しいLinuxの教科書"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4797380942/hatena-blog-22/">新しいLinuxの教科書</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> 三宅英明,大角祐介</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/SB%A5%AF%A5%EA%A5%A8%A5%A4%A5%C6%A5%A3%A5%D6">SBクリエイティブ</a></li><li><span class="hatena-asin-detail-label">発売日:</span> 2015/06/06</li><li><span class="hatena-asin-detail-label">メディア:</span> 単行本</li><li><a href="http://d.hatena.ne.jp/asin/4797380942/hatena-blog-22" target="_blank">この商品を含むブログ (6件) を見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+<p>aaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaa</p>
+
+<h3>スッキリわかる<a class="keyword" href="http://d.hatena.ne.jp/keyword/SQL">SQL</a>入門 第2版 ドリル222問付き! (スッキリシリーズ)</h3>
+
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4295005096/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/51Wj-FeLE2L._SL160_.jpg" class="hatena-asin-detail-image" alt="スッキリわかるSQL入門 第2版 ドリル222問付き! (スッキリシリーズ)" title="スッキリわかるSQL入門 第2版 ドリル222問付き! (スッキリシリーズ)"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4295005096/hatena-blog-22/">スッキリわかるSQL入門 第2版 ドリル222問付き! (スッキリシリーズ)</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> 中山清喬,飯田理恵子,株式会社フレアリンク</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D7%A5%EC%A5%B9">インプレス</a></li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/11/30</li><li><span class="hatena-asin-detail-label">メディア:</span> 単行本（ソフトカバー）</li><li><a href="http://d.hatena.ne.jp/asin/4295005096/hatena-blog-22" target="_blank">この商品を含むブログを見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+<h3>体系的に学ぶ 安全なWebアプリケーションの作り方 第2版［固定版］　<a class="keyword" href="http://d.hatena.ne.jp/keyword/%C0%C8%BC%E5%C0%AD">脆弱性</a>が生まれる原理と対策の実践</h3>
+
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4797393165/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/513hw-04L8L._SL160_.jpg" class="hatena-asin-detail-image" alt="体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践" title="体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4797393165/hatena-blog-22/">体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> 徳丸浩</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/SB%A5%AF%A5%EA%A5%A8%A5%A4%A5%C6%A5%A3%A5%D6">SBクリエイティブ</a></li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/06/21</li><li><span class="hatena-asin-detail-label">メディア:</span> 単行本</li><li><a href="http://d.hatena.ne.jp/asin/4797393165/hatena-blog-22" target="_blank">この商品を含むブログを見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+<h3>新版 議論のレッスン (<a class="keyword" href="http://d.hatena.ne.jp/keyword/NHK">NHK</a>出版新書 552)</h3>
+
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4140885521/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/51zH7Gny2ML._SL160_.jpg" class="hatena-asin-detail-image" alt="新版 議論のレッスン (NHK出版新書 552)" title="新版 議論のレッスン (NHK出版新書 552)"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4140885521/hatena-blog-22/">新版 議論のレッスン (NHK出版新書 552)</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> 福澤一吉</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/NHK">NHK</a>出版</li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/05/08</li><li><span class="hatena-asin-detail-label">メディア:</span> 新書</li><li><a href="http://d.hatena.ne.jp/asin/4140885521/hatena-blog-22" target="_blank">この商品を含むブログ (1件) を見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+<h3>SOFT SKILLS　ソフトウェア開発者の人生マニュアル</h3>
+
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01GDS0994/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/51a8%2BRIbDoL._SL160_.jpg" class="hatena-asin-detail-image" alt="SOFT SKILLS　ソフトウェア開発者の人生マニュアル" title="SOFT SKILLS　ソフトウェア開発者の人生マニュアル"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01GDS0994/hatena-blog-22/">SOFT SKILLS　ソフトウェア開発者の人生マニュアル</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> ジョン・ソンメズ</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%C6%FC%B7%D0BP">日経BP</a>社</li><li><span class="hatena-asin-detail-label">発売日:</span> 2016/06/02</li><li><span class="hatena-asin-detail-label">メディア:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/Kindle">Kindle</a>版</li><li><a href="http://d.hatena.ne.jp/asin/B01GDS0994/hatena-blog-22" target="_blank">この商品を含むブログ (8件) を見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+<h3>CAREER SKILLS　ソフトウェア開発者の完全キャリアガイド</h3>
+
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07FCYSNXT/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/41Jh62iphkL._SL160_.jpg" class="hatena-asin-detail-image" alt="CAREER SKILLS　ソフトウェア開発者の完全キャリアガイド" title="CAREER SKILLS　ソフトウェア開発者の完全キャリアガイド"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07FCYSNXT/hatena-blog-22/">CAREER SKILLS　ソフトウェア開発者の完全キャリアガイド</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> ジョン・ソンメズ</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%C6%FC%B7%D0BP">日経BP</a>社</li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/07/10</li><li><span class="hatena-asin-detail-label">メディア:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/Kindle">Kindle</a>版</li><li><a href="http://d.hatena.ne.jp/asin/B07FCYSNXT/hatena-blog-22" target="_blank">この商品を含むブログを見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: 実践Scala入門を読んだ感想
+BASENAME: 2018/11/23/135536
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:55:36
+-----
+BODY:
+<p><div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4297101416/hatena-blog-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/41Cqb1JSb6L._SL160_.jpg" class="hatena-asin-detail-image" alt="実践Scala入門" title="実践Scala入門"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4297101416/hatena-blog-22/">実践Scala入門</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> 瀬良和弘,水島宏太,河内崇,麻植泰輔,青山直紀</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%B5%BB%BD%D1%C9%BE%CF%C0%BC%D2">技術評論社</a></li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/10/27</li><li><span class="hatena-asin-detail-label">メディア:</span> 単行本（ソフトカバー）</li><li><a href="http://d.hatena.ne.jp/asin/4297101416/hatena-blog-22" target="_blank">この商品を含むブログを見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div></p>
+
+<p>遅ればせながら、実践<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>入門を読み終わりました。<br/>
+私は仕事でも<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>を書いていますので(といっても半年のペーペーです...),それをふまえたうえで、章ごとの感想とまとめを書きたいと思います。 <br/>
+先に結論だけ申し上げますと『良著』です。</p>
+
+<h3>第1章<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>ひとめぐり</h3>
+
+<p><a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>とは何かの説明やREPLなど。</p>
+
+<h3>第2章　<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>の基礎</h3>
+
+<p>型, クラス, メソッド, 制御構文などそもそも知らないと<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>を書けないものが纏まっていました。<br/>
+人に説明するときに使えると思えるぐらい、うまく説明されていました。</p>
+
+<h3>第3章　Option/Either/Tryによるエラー処理</h3>
+
+<p>3章と4章が一番感動しました。
+3章ではOption/Either/Tryを比較しやすいように同じ構文で説明されていて、すっと頭に入ってくる感じです。</p>
+
+<h3>第4章　コレクション</h3>
+
+<p>4章ではコレクションの説明がされていて、実際に<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>書くときはココに一番苦労していたので、<br/>
+綺麗に纏まっていて忘れてしまったら何度も読み返したいと思いました。</p>
+
+<h3>第5章　並行プログラミング</h3>
+
+<p>並行プログラミングとしてFutureの説明がされていました。最初に並行プログラミングの説明がありますので、初心者でも安心です。</p>
+
+<h3>第6章　<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>プロジェクトのビルド</h3>
+
+<p>独学で覚えていたsbtの説明があり、初学者にパッケージ構成を説明するのに、大変良いと思います。</p>
+
+<h3>第7章　<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%E6%A5%CB%A5%C3%A5%C8%A5%C6%A5%B9%A5%C8">ユニットテスト</a></h3>
+
+<p>ネットにはあまりない、実践的なtestの書き方を説明されています。ココだけでも買った価値がありました。</p>
+
+<h3>第8章　知っておきたい応用的な構文</h3>
+
+<p>8割方、productionコードで見たやつで、ココもネットにはあまりない...以下略</p>
+
+<h3>第9章　よりよいコーディングを目指して</h3>
+
+<p>Effective <a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>的な...そこまで行かないが、production環境では確実に求められることが書かれています。</p>
+
+<h3>終わりに</h3>
+
+<p>ということで、<a class="keyword" href="http://d.hatena.ne.jp/keyword/Scala">Scala</a>エンジニアだったら手元に1冊置いておきたい、そんな本だと思いました。</p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: エンジニアの勉強法について
+BASENAME: 2018/11/23/135502
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:55:02
+-----
+BODY:
+<p>今回はエンジニアの学習方法について書きたいと思います。<br/>
+私は今まで、ずっと適当に技術の学習をしていたのですが、転職後仕事で扱う言語やツールが80を超えキャパオーバーしました...<br/>
+そこで、何か効率的に学習しながら仕事を全うできる方法はないか調べたところ、「10steps process」というものを見つけました。<br/>
+せっかく見つけたので、社内で講演しました。その資料を今日は公開したいと思います。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1pbF-otjQHOM0msM06Bl_kDvkAvXK3OpCSJjqIl_fDPI%2Fedit%3Fusp%3Dsharing" title="学び方を学ぶ" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://docs.google.com/presentation/d/1pbF-otjQHOM0msM06Bl_kDvkAvXK3OpCSJjqIl_fDPI/edit?usp=sharing">docs.google.com</a></cite></p>
+
+<p>皆さんにも良きエンジニアライフを!!</p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: 新しい技術を学ぶために必ずやること(React編)
+BASENAME: 2018/11/23/135441
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:54:41
+-----
+BODY:
+<p>もうすぐ<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B4%A1%BC%A5%EB%A5%C7%A5%F3%A5%A6%A5%A3%A1%BC%A5%AF">ゴールデンウィーク</a>ですね。<br/>
+まとまった時間が出来るので、新しい技術で何か作ろうと思っています。</p>
+
+<p>今回学習するのはReactに決めました。</p>
+
+<p>休みに入る前に何を使うか決めておかないと決めるだけで休みが終わりそうなので、<br/>
+今のうちに概念理解&amp;環境構築をやっておこうと思いました。<br/>
+Reactについて調べて聞くと、React単体ですべてが出来るわけではなく、<br/>
+Redux,react-router,material-ui,axios,ES2015,Babel,webpack,ESLint…etc<br/>
+これらをinstallして<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%A4%A5%EB">コンパイル</a>するとあったので、実際にやってみたのですが、なかなかうまくいきませんでした。<br/>
+何かないかとsampleを探しに公式サイトを見に行ったら、「create-react-app」なるものが…<br/>
+installしてみると、package.<a class="keyword" href="http://d.hatena.ne.jp/keyword/json">json</a>に今までにないreact-scriptsが…<br/>
+何?とググってみるとBabel,webpack,ESLint,severとかよろしくやってくれる…</p>
+
+<h3>うわああああああああああ</h3>
+
+<p>ReactのサイトなのだからReactしかinstallしてくれないと思いこんでいました。<br/>
+これにRedux,react-router,material-uiを入れればなんとかなりそう。</p>
+
+<h3>結論</h3>
+
+<p>何か新しいものを学ぶためには最初に公式サイトを見ましょう。<strong>絶対!!</strong></p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: ハイブリッドアプリ(Ionic)の開発を終えて…これから開発を考えている人へ
+BASENAME: 2018/11/23/135420
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:54:20
+-----
+BODY:
+<p>会社で<a class="keyword" href="http://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9">Webサービス</a>の開発をしていたのですが、人に説明するときにアプリ版が欲しいと言われ、<br/>
+お試し版として、3週間で選定から開発、リリースまで1人で行いました。</p>
+
+<p>ネイティブアプリとハイブリットアプリで迷ったのですが、
+開発期間がなかったのと、お試し版と言われたので、
+<a class="keyword" href="http://d.hatena.ne.jp/keyword/iOS">iOS</a>/<a class="keyword" href="http://d.hatena.ne.jp/keyword/Android">Android</a>両方のアプリを同時に作れると巷で言われているハイブリットアプリ(Ionic)で開発をしました。<br/>
+今回は今後開発を検討している方に向けて、自身が苦労した点を挙げていきたいと思います。</p>
+
+<h3>学習コスト</h3>
+
+<p>見た目部分はマニュアルを見ながらコードを書けばそれっぽく出来るのですが、
+IonicはControllerにAngularを使っているため、がっつりAngularの学習コストがかかりました。<br/>
+他のハイブリットアプリの<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D5%A5%EC%A1%BC%A5%E0%A5%EF%A1%BC%A5%AF">フレームワーク</a>にも言えることなので、
+すでに<a class="keyword" href="http://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9">Webサービス</a>で使った経験があるJS<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D5%A5%EC%A1%BC%A5%E0%A5%EF%A1%BC%A5%AF">フレームワーク</a>を使っているハイブリットアプリの<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D5%A5%EC%A1%BC%A5%E0%A5%EF%A1%BC%A5%AF">フレームワーク</a>を選びましょう。</p>
+
+<h3>見た目と動きについて</h3>
+
+<p>Web系の人にはBootstrapといえばわかりやすいでしょうか…最初からある程度形が決まっているんですよ、
+だから「ここの見た目を変えて」、「こういう動きにしてー」と言われるとかなり厳しいものがあります。
+幸い、Ionicはコミュニティが大きく情報量が多かったため、なんとか対応出来ました(全部英語でしたが)。
+それでも足りない部分があり、Autocompleteを独自実装したのですが、かなり大変でした。</p>
+
+<h3><a class="keyword" href="http://d.hatena.ne.jp/keyword/iOS">iOS</a>/<a class="keyword" href="http://d.hatena.ne.jp/keyword/Android">Android</a>の違いについて</h3>
+
+<p>私は<a class="keyword" href="http://d.hatena.ne.jp/keyword/Android">Android</a>版を一通り完成させてから、<a class="keyword" href="http://d.hatena.ne.jp/keyword/iOS">iOS</a>版の開発を行ったのですが、
+見た目が思った通りになっていない箇所が何箇所かありました。
+なので全く一緒にはなりません…といっても本当に数カ所なので気にならないレベルですが。</p>
+
+<h3>テストについて</h3>
+
+<p><a class="keyword" href="http://d.hatena.ne.jp/keyword/iOS">iOS</a>/<a class="keyword" href="http://d.hatena.ne.jp/keyword/Android">Android</a>で微妙に違う箇所があるため、結局テストは両端末でやらなければなりません。</p>
+
+<h3>どういうものが向いているのか</h3>
+
+<p>とてもシンプルな見た目でデフォルトから変更予定がないもの、独自色を出さないものなら良いと思います。<br/>
+特に見た目についてこだわりがある発注者には、作り始める前に見た目と動きが固定なことを<strong><span style="color: #ff0000">必ず</span></strong>伝えましょう。<br/>
+と言っても、どんなものができるか伝えるのが大変だと思いますので探しました。<br/>
+いま出ているアプリだとGameWithの「モンスト 全国マルチ<a class="keyword" href="http://d.hatena.ne.jp/keyword/%B7%C7%BC%A8">掲示</a>板 &amp; 攻略」は、ハイブリットアプリっぽいです。<br/>
+なので発注者には、こんな感じの見た目と動きになることを伝えると幸せになれると思います。</p>
+
+<h3>感想</h3>
+
+<p>私は事前に発注者に無理が出来ないことを伝えていなかったため、地獄を見ました。<br/>
+相当応用が簡単にならない限り、ハイブリットアプリを作ることはもうなさそうです。<br/>
+次からは必ずネイティブで作るよう説得していきたいと思います。</p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: GCP(GAE)+WordPressで1ヶ月でいくら位かかるのか実際に運用して確かめてみた
+BASENAME: 2018/11/23/135400
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:54:00
+-----
+BODY:
+<p>今の<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%EC%A5%F3%A5%BF%A5%EB%A5%B5%A1%BC%A5%D0">レンタルサーバ</a>ーって大体1ヶ月1000円くらいかかりますよね。<br/>
+なので、<a class="keyword" href="http://d.hatena.ne.jp/keyword/GCP">GCP</a>(GAE)+<a class="keyword" href="http://d.hatena.ne.jp/keyword/WordPress">WordPress</a>で1ヶ月でいくら位かかるのかを知るために前回、</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fyoshiyoshi7.hatenablog.com%2Fentry%2F2017%2F03%2F08%2F150606" title="GCP(GAE)+WordPressでサイト構築してみた - y.y" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://yoshiyoshi7.hatenablog.com/entry/2017/03/08/150606">yoshiyoshi7.hatenablog.com</a></cite></p>
+
+<p>で実際に環境構築をしました。<br/>
+そこ今回、実際に運用してみて、いくらかかったのか公開します。</p>
+
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshiyoshi7/20170307/20170307204334.png" alt="f:id:yoshiyoshi7:20170307204334p:plain" title="f:id:yoshiyoshi7:20170307204334p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<p>合計で<strong>¥1,617</strong>でした。</p>
+
+<h3>内訳</h3>
+
+<p>かかっている料金は全部<a class="keyword" href="http://d.hatena.ne.jp/keyword/Google">Google</a> Cloud <a class="keyword" href="http://d.hatena.ne.jp/keyword/SQL">SQL</a>…つまりdatabaseです。<br/>
+最近、<a class="keyword" href="http://d.hatena.ne.jp/keyword/Google">Google</a> Cloud <a class="keyword" href="http://d.hatena.ne.jp/keyword/SQL">SQL</a>って第2世代になったのですが、第1世代と違って第2世代って常時接続なんですよ。
+そのせいで、結構料金が上がっています。<br/>
+他のサービスと比べてのメリットを挙げると、<a class="keyword" href="http://d.hatena.ne.jp/keyword/Google">Google</a>のサーバーでキャッシュを作ってくれるので、アクセスが爆速になるぐらいかな…。</p>
+
+<h3>これ以上安くするには</h3>
+
+<p>他の方法としては、<a class="keyword" href="http://d.hatena.ne.jp/keyword/WordPress">WordPress</a>サイトを静的HTMLに変換する<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3">プラグイン</a>(WP Static HTML Outputとか)で吸い出して、<br/>
+<a class="keyword" href="http://d.hatena.ne.jp/keyword/Google">Google</a> Cloud Storageに上げれば200円ぐらいには出来ると思われる。</p>
+
+<p>なんでやらないかと言うと、自分が文章を書く能力なさすぎて、そもそもサイトが維持できないので<strong>断念した</strong>＼(^o^)／</p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: GCP(GAE)+WordPressでサイト構築してみた
+BASENAME: 2018/11/23/135335
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:53:35
+-----
+BODY:
+<p>今まで<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9">クラウド</a>を触ったことがなかったので、ちょっとやってみようかと<a class="keyword" href="http://d.hatena.ne.jp/keyword/GCP">GCP</a>(GAE)+<a class="keyword" href="http://d.hatena.ne.jp/keyword/WordPress">WordPress</a>でサイト構築してみた話です。<br/>
+全部書くとものすごく長くなってしまうため、要点を掻い摘んで説明します。</p>
+
+<h3>GAEに<a class="keyword" href="http://d.hatena.ne.jp/keyword/WordPress">WordPress</a>を構築</h3>
+
+<p><a href="http://www.apps-gcp.com/wp-on-gae-2015/">こちら</a>を参考に構築しました。<br/>
+ちょっと情報が古いので変えた点は</p>
+
+<ul>
+<li>App Engine の場所 us-central → asia-northeast1</li>
+<li>Cloud-<a class="keyword" href="http://d.hatena.ne.jp/keyword/SQL">SQL</a>の<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%B9%A5%BF%A5%F3%A5%B9">インスタンス</a> v1 → v2</li>
+</ul>
+
+
+<p>です。</p>
+
+<p>Cloud-<a class="keyword" href="http://d.hatena.ne.jp/keyword/SQL">SQL</a> v2にしたことで、ユーザーが<a class="keyword" href="http://d.hatena.ne.jp/keyword/GUI">GUI</a>から作成できなくなったため、<br/>
+<a class="keyword" href="http://d.hatena.ne.jp/keyword/Google">Google</a> Cloud Shellを使い、<a class="keyword" href="http://d.hatena.ne.jp/keyword/SQL">SQL</a>でユーザー作成を行いました。</p>
+
+<h3><a class="keyword" href="http://d.hatena.ne.jp/keyword/%C6%C8%BC%AB%A5%C9%A5%E1%A5%A4%A5%F3">独自ドメイン</a></h3>
+
+<p>お名前.comで<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3">ドメイン</a>を買いました。<br/>
+GAEでの<a class="keyword" href="http://d.hatena.ne.jp/keyword/%C6%C8%BC%AB%A5%C9%A5%E1%A5%A4%A5%F3">独自ドメイン</a>の設定は<a href="https://42-design.work/technology/how-to-use-custom-domain-in-google-app-engine/">こちら</a>を参考に構築しました。</p>
+
+<h3><a class="keyword" href="http://d.hatena.ne.jp/keyword/SSL%BE%DA%CC%C0%BD%F1">SSL証明書</a></h3>
+
+<p><a class="keyword" href="http://d.hatena.ne.jp/keyword/SSL%BE%DA%CC%C0%BD%F1">SSL証明書</a>は<a href="http://koni.hateblo.jp/entry/2016/06/02/233900">こちら</a>を参考にしました。<br/>
+<a class="keyword" href="http://d.hatena.ne.jp/keyword/Unix">Unix</a>環境がなかったため、<a class="keyword" href="http://d.hatena.ne.jp/keyword/Google">Google</a> Cloud Shellを使い、証明書を作成しました。</p>
+
+<h3>最後に</h3>
+
+<p>以上で、サイト構築、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%C6%C8%BC%AB%A5%C9%A5%E1%A5%A4%A5%F3">独自ドメイン</a>、<a class="keyword" href="http://d.hatena.ne.jp/keyword/https%B2%BD">https化</a>まで出来ると思います。<br/>
+次回に実際運用していくらぐらいかかるのか紹介したいと思います。</p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: 私がMacBook Pro(Late 2016)を買った理由
+BASENAME: 2018/11/23/135304
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:53:04
+-----
+BODY:
+<p>私は今まで<a class="keyword" href="http://d.hatena.ne.jp/keyword/Mac">Mac</a>を買ったことがなかった。<br/>
+生まれてこの方<a class="keyword" href="http://d.hatena.ne.jp/keyword/Windows">Windows</a>と<a class="keyword" href="http://d.hatena.ne.jp/keyword/Linux">Linux</a>しか触ってこなかったし特に仕事上困リませんでした。</p>
+
+<p>・・・言い過ぎました。実は一度だけ触ったことがあります。
+会社で開発用に<a class="keyword" href="http://d.hatena.ne.jp/keyword/MacBook">MacBook</a>を買ったときに操作しました。<br/>
+その時手取り足取り操作を教えてもらったのですが、電源の切り方もわからず、
+いい年して電源の切り方もわからないなんて・・・って悲しくなってそれから<a class="keyword" href="http://d.hatena.ne.jp/keyword/Apple">Apple</a>嫌いになっていました。<br/>
+もちろん<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A1%BC%A5%C8%A5%D5%A5%A9%A5%F3">スマートフォン</a>もずっと<a class="keyword" href="http://d.hatena.ne.jp/keyword/Android">Android</a>でした。<br/>
+<a class="keyword" href="http://d.hatena.ne.jp/keyword/Android">Android</a>はファイル管理がPCと接続すれば楽ですし、何より野良アプリが動くのが大きい・・・(艦これですが、これのせいで当分<a class="keyword" href="http://d.hatena.ne.jp/keyword/iphone">iphone</a>は買えない)</p>
+
+<p>月日が経ち、個人で開発したものを<a class="keyword" href="http://d.hatena.ne.jp/keyword/GitHub">GitHub</a>に挙げるのが当たり前みたいな時代になりました。<br/>
+私もこの業界にきて3年が過ぎ、一通りのことはできるようになったので、最新の技術で何か一人で作って公開してみようかなと考えるようになりました。<br/>
+そこで色々な<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D5%A5%EC%A1%BC%A5%E0%A5%EF%A1%BC%A5%AF">フレームワーク</a>の環境構築をやってみたり、便利そうな<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3">プラグイン</a>を調べてはインストールしていました。<br/>
+いや違います・・・<strong>構築しようとやってみました。</strong><br/>
+何が違うかというと、<strong>ERRORが出て構築できないのがあったのです。</strong></p>
+
+<p>なんで書いてある通りに出来ないんだろうとググって調べていると、あることに気が付きました。<br/>
+環境構築で構築する環境(OS)が書いていないのは全部<strong><a class="keyword" href="http://d.hatena.ne.jp/keyword/macOS">macOS</a></strong>だったのです。<br/>
+つまりはこういうことになります。</p>
+
+<ul>
+<li><a class="keyword" href="http://d.hatena.ne.jp/keyword/Windows">Windows</a>と書いてある→<a class="keyword" href="http://d.hatena.ne.jp/keyword/Windows">Windows</a>で構築できる</li>
+<li><a class="keyword" href="http://d.hatena.ne.jp/keyword/macOS">macOS</a>と書いてある→<a class="keyword" href="http://d.hatena.ne.jp/keyword/macOS">macOS</a>で構築できる</li>
+<li>何も書いていない→<a class="keyword" href="http://d.hatena.ne.jp/keyword/macOS">macOS</a>で構築できる</li>
+</ul>
+
+
+<p>この事実に私は愕然としました。
+だって何かやるにしても<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B0%A5%B0%A4%EB">ググる</a>ときに「 <a class="keyword" href="http://d.hatena.ne.jp/keyword/windows">windows</a>」と付けなければならないからです。<br/>
+これって結構ストレスが溜まりますし、時間だって馬鹿になりません。</p>
+
+<p>別に<a class="keyword" href="http://d.hatena.ne.jp/keyword/Linux">Linux</a>でもよかったのですが、世間では<a class="keyword" href="http://d.hatena.ne.jp/keyword/mac">mac</a>最高!!と書いてあったのでちょっと高かったですが、<a class="keyword" href="http://d.hatena.ne.jp/keyword/MacBook%20Pro">MacBook Pro</a>を買いました。</p>
+
+<p>でも結局、<a class="keyword" href="http://d.hatena.ne.jp/keyword/Mac">Mac</a>内を汚したくなくて、Docker使っているので、ほとんど意味ないです。</p>
+
+-----
+--------
+AUTHOR: yoshiyoshi7
+TITLE: 今まで読んだ技術書の中から役に立ったもの(※随時更新)
+BASENAME: 2018/11/23/135138
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/23/2018 13:51:38
+-----
+BODY:
+<p>今まで読んだ技術書の中で役に立ったものを挙げていきます。
+(※もう使われないだろうと思われるのは除いています)</p>
+
+<h3>コンピュータシステムの基礎　第16版</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4872689518/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/41OOAgKNG3L._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4872689518/delete1999-22/" target="_blank" >コンピュータシステムの基礎　第16版</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail"><a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A2%A5%A4%A5%C6%A5%C3%A5%AF">アイテック</a>教育研究開発部 <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A2%A5%A4%A5%C6%A5%C3%A5%AF">アイテック</a> 2013-09-30    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4872689518/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83R%83%93%83s%83%85%81%5B%83%5E%83V%83X%83e%83%80%82%CC%8A%EE%91b%81%40%91%E616%94%C5&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=delete1999-22" target="_blank" >Kindle</a></div>                                           </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>この本は大学で情報専攻でなかった私にとっては、教科書的な存在でした。<br/>
+コンピュータの歴史から、現在のシステムがどう構成されて動いているかが解説されていて、とても勉強になりました。<br/>
+大学で情報専攻ではなかった人は必ず読んだほうが良いと思います。インフラ周りの知識が一通り付きますので。</p>
+
+<h3>スッキリわかる<a class="keyword" href="http://d.hatena.ne.jp/keyword/Java">Java</a>入門 第2版 (スッキリシリーズ)</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/484433638X/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51p6dqvB3lL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/484433638X/delete1999-22/" target="_blank" >スッキリわかるJava入門 第2版 (スッキリシリーズ)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">中山 清喬,国本 大悟 <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D7%A5%EC%A5%B9">インプレス</a> 2014-08-07    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/484433638X/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00MIM1KFC/delete1999-22/" target="_blank" >Kindle</a></div>                                             </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>私はこの本を読む前に他の本で<a class="keyword" href="http://d.hatena.ne.jp/keyword/Java">Java</a>を学んでいたのですが、
+何か圧倒的に知識が足りないと思い、この本を読んでビックリ!!
+わかりやすさに愕然としました。
+<a class="keyword" href="http://d.hatena.ne.jp/keyword/Java">Java</a>を初めて学ぶならおすすめです。</p>
+
+<h3>スッキリわかる <a class="keyword" href="http://d.hatena.ne.jp/keyword/Java">Java</a>入門 実践編 第2版 (スッキリシリーズ)</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844336770/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51tln1rTTnL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844336770/delete1999-22/" target="_blank" >スッキリわかる Java入門 実践編 第2版 (スッキリシリーズ)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">中山 清喬 <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D7%A5%EC%A5%B9">インプレス</a> 2014-09-22    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844336770/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00O0NIW30/delete1999-22/" target="_blank" >Kindle</a></div>                                            </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>上記の本の実践編ですね。これもセットで読むことをおすすめします。<br/>
+この本を読んだ後に「これで自分も<a class="keyword" href="http://d.hatena.ne.jp/keyword/Java">Java</a>マスターだ」と浮かれていたのを思い出します(そしてその後深淵を知り絶望することに)。<br/>
+ここまでで、例えるなら中学生英語レベル、日常会話レベルです。<br/>
+一応コードが書けるレベルまで行きますが、並列処理や例外処理やラムダや…etcなど色々足りないため、
+あくまで作業者レベルで、設計は出来ません。</p>
+
+<h3>ExcelVBA逆引き大全620の極意2013/2010/2007/2003対応</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4798039098/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51slf05bmmL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4798039098/delete1999-22/" target="_blank" >ExcelVBA逆引き大全620の極意2013/2010/2007/2003対応</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">中村 峻 <a class="keyword" href="http://d.hatena.ne.jp/keyword/%BD%A8%CF%C2%A5%B7%A5%B9%A5%C6%A5%E0">秀和システム</a> 2013-08-27    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4798039098/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B012MLIX7G/delete1999-22/" target="_blank" >Kindle</a></div>                                             </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>突然、ツール作ってと言われたときに役に立ちました。<a class="keyword" href="http://d.hatena.ne.jp/keyword/SIer">SIer</a>あるあるですね。<br/>
+さらに、現場はネット繋がらなかったんで本当に助かりました。</p>
+
+<h3>達人に学ぶDB設計 徹底指南書 初級者で終わりたくないあなたへ</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4798124702/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/61bMuQNwkoL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4798124702/delete1999-22/" target="_blank" >達人に学ぶDB設計 徹底指南書 初級者で終わりたくないあなたへ</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">ミック <a class="keyword" href="http://d.hatena.ne.jp/keyword/%E6%C6%B1%CB%BC%D2">翔泳社</a> 2012-03-16    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4798124702/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EE1XPAI/delete1999-22/" target="_blank" >Kindle</a></div>                                              </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>DB周りの知識が基本情報で学んだレベルだったので、いざ設計しろと言われたときに困ると思い、読んでみました。<br/>
+内容的には知っている知識も多かったのですが、いざ設計するときには手元に置いておきたい一冊です。</p>
+
+<h3><a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DE">プログラマ</a>のためのDocker教科書 インフラの基礎知識&amp;コードによる環境構築の自動化</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/479814102X/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51G1TiUZprL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/479814102X/delete1999-22/" target="_blank" >プログラマのためのDocker教科書 インフラの基礎知識&コードによる環境構築の自動化[f:id:yoshiyoshi7:20170222163938j:plain]</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">阿佐 志保 <a class="keyword" href="http://d.hatena.ne.jp/keyword/%E6%C6%B1%CB%BC%D2">翔泳社</a> 2015-11-20    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/479814102X/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B017UGA7NG/delete1999-22/" target="_blank" >Kindle</a></div>                                              </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p><a class="keyword" href="http://d.hatena.ne.jp/keyword/%B2%BE%C1%DB%A5%DE%A5%B7%A5%F3">仮想マシン</a>、<a class="keyword" href="http://d.hatena.ne.jp/keyword/KVM">KVM</a>、そしてDockerと時代の移り変わりを感じ、とりあえず読んでみることに。<br/>
+この本を読むとDockerについて一通りの知識が付きます。逆に読まないとネットにある情報だけでは限界を感じました。<br/>
+これからは開発環境を作るのに必須知識だと思うので、読むことをおすすめします。</p>
+
+<h3><a class="keyword" href="http://d.hatena.ne.jp/keyword/HTML5">HTML5</a>&amp;CSS3デザインブック (ステップ<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9">バイス</a>テップ形式でマスターできる)</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4883379647/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51A-tYY2DGL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4883379647/delete1999-22/" target="_blank" >HTML5&CSS3デザインブック (ステップバイステップ形式でマスターできる)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">エ<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D3%A5%B9%A5%B3">ビスコ</a>ム ソシム 2014-10-28    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4883379647/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=HTML5%26CSS3%83f%83U%83C%83%93%83u%83b%83N%20%28%83X%83e%83b%83v%83o%83C%83X%83e%83b%83v%8C%60%8E%AE%82%C5%83%7D%83X%83%5E%81%5B%82%C5%82%AB%82%E9%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=delete1999-22" target="_blank" >Kindle</a></div>                                           </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>今までレスポンシブデザインはBootstrapにまかせていたが、<a class="keyword" href="http://d.hatena.ne.jp/keyword/API">API</a>を作って画面に表示をさせるように言われたため、レスポンシブのやり方を学ぶために読んでみることに。<br/>
+HTML、<a class="keyword" href="http://d.hatena.ne.jp/keyword/CSS">CSS</a>について基礎知識がある前提で書かれているので、本当にデザインを学びたい人向けの本です。</p>
+
+<h3>リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51MgH8Jmr3L._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/delete1999-22/" target="_blank" >リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">Dustin Boswell,Trevor Foucher <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AA%A5%E9%A5%A4%A5%EA%A1%BC%A5%B8%A5%E3%A5%D1%A5%F3">オライリージャパン</a> 2012-06-23    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%8A%81%5B%83_%83u%83%8B%83R%81%5B%83h%20%81%5C%82%E6%82%E8%97%C7%82%A2%83R%81%5B%83h%82%F0%8F%91%82%AD%82%BD%82%DF%82%CC%83V%83%93%83v%83%8B%82%C5%8E%C0%91H%93I%82%C8%83e%83N%83j%83b%83N%20%28Theory%20in%20practice%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=delete1999-22" target="_blank" >Kindle</a></div>                                            </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>すごく出来る人と<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%DA%A5%A2%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0">ペアプログラミング</a>をしているときに、コードの違いに愕然とし、何かないかと探し、読んでみることに。
+文章がただ翻訳してみました的な書き方なので若干読みづらいが、内容はとても素晴らしいので<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DE">プログラマ</a>なら必ず読んだほうが良いです。</p>
+
+<h3>ノンデザイナーズ・デザインブック [第4版]</h3>
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4839955557/delete1999-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51HKaOqL-RL._SL160_.jpg" style="border: none;" /></a></div><div class="booklink-info"><div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4839955557/delete1999-22/" target="_blank" >ノンデザイナーズ・デザインブック [第4版]</a><div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">Robin Williams <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%DE%A5%A4%A5%CA%A5%D3%BD%D0%C8%C7">マイナビ出版</a> 2016-06-30    </div><div class="booklink-link2"><div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4839955557/delete1999-22/" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01LW1BC2L/delete1999-22/" target="_blank" >Kindle</a></div>                                           </div></div><div class="booklink-footer"></div></div></div>
+
+
+<p>デザイナーがいないなかでサイトを作っていて、ひどいのはわかるのだが、何がひどいのかわからなかったときに教えてもらった本。
+エンジニアにはあまり必要ないと思っていたが、個人サイトを作る場合は必須なのは間違いない。<br/>
+今までなんとなくでやっていたことを体系的に出来るためオススメ。</p>
+
+-----
+--------
